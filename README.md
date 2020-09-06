@@ -11,6 +11,7 @@ I will be using Python3.6 and refer to OpenCV Library.
 > 4) [Contributing](#4-contributing)
 > 5) [License](#5-license)
 
+<br>
 
 ## 1. Install
 This project depends on numpy library. 
@@ -25,20 +26,24 @@ pip install opencv-python            # Main Module
 pip install opencv-contrib-python    # Main & Extra Module
 ```
 
+<br>
 
 ## 2. Usage
 ```
 ```
 
+<br>
 
 ## 3. API
 ```
 ```
 
+<br>
 
 ## 4. Contributing
 The [link](./CONTRIBUTING.md) is about contributions.
 
+<br>
 
 ## 5. License
 [BSD-3-Clause License](./LICENSE)
